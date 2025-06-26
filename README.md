@@ -18,3 +18,5 @@ python manage.py migrate
 ```
 
 -- to run migration
+
+Models -> Serializer -> Views
